@@ -38,10 +38,37 @@
       "tags": [
         "photography","art"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeCB354C387E088e616C541c8C64C052be426c18",
+      "name": "Wildalps Editions",
+      "logoURI": "https://lh3.googleusercontent.com/OB3ab743CAoM7k52zXtXKZLY9IlbaNM4ky62Zt89YsDsdoga7Hi0sKBwOhZ-h1VIbVmtFjH8kCCgoHcn5tOoOynz3YcuHo7f-gkg=s168",
+      "tags": [
+        "photography","art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd00C546442096A6FffdAae36E08358e4Df1e85aB",
+      "name": "Wildalps Airdrops",
+      "logoURI": "https://lh3.googleusercontent.com/Pr1q9dl9-bzaqTZVK00bm_oQ60TbzzBUAXnEok-MxlWd7gwrHGEIzqzT4pX3iMSmtFH5flWwUUpqtwHqTy7jk2AlCMI6YiFhIlUv=w600",
+      "tags": [
+        "photography","art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46864b5B96f0963748a9aed161D1525562A9EC53",
+      "name": "THE ART MEMES",
+      "logoURI": "https://openseauserdata.com/files/aa632893f9fd59cc179cad7e688bae53.jpg",
+      "tags": [
+        "photography","art"
+      ]
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 1
   }
