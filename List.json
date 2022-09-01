@@ -1,0 +1,48 @@
+{
+  "name": "Wildalps & Community",
+  "logoURI": "https://lh3.googleusercontent.com/OvU49NtWWEHZz1JFzteKLiQjhU3UBg4tftUlNrE3JYVURlqrqa5hdErP8ISW5AfayOkX7ar_5BCjmLF_zgglXsnD-cjk1RH8XAU8=s168",
+  "baseURL": "https://www.flowcode.com/page/wildalps",
+  "collectionURL": "https://opensea.io/collection/freedom-web3",
+  "itemURL": "https://opensea.io/collection/freedom-web3/{chainID}/{collectionId}/{tokenId}",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "photography": {
+      "name": "Photography",
+      "description": "Collections that are connected to Wildalps community"
+    },
+    "art": {
+      "name": "ART",
+      "description": "Digital Art Projects"
+    }
+  },
+  "timestamp": "2022-03-12T00:00:00+00:00",
+  "collections": [
+    {
+      "chainId": 1,
+      "address": "0x12fC36FDe2d63284b4eb5AEE643C2603E24FF20F",
+      "name": "FREE_DOM",
+      "logoURI": "https://lh3.googleusercontent.com/qYnOV_9OWAiw0jISbPay8E86UcJDPHMsw1BbEZ2VkjUFsZlRu0HTuXzJaiE080nhR5-gaNaCjmWhGIriIxcdHsgcrZyeQj0z2Js0Dc4=s168",
+      "tags": [
+        "photography","art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7d6aA700aFef85477FC49a40874E420cad84f48",
+      "name": "Wildalps",
+      "logoURI": "https://lh3.googleusercontent.com/uw2DwC0jDMalqNrVt-Hukfse51C7VoO4L5SQNOhqcssBlyxvfNze3yjMSkrlpu19Gbq1_1kgO7_U2XJvUGkQNK_8iEpAULYy7stL8Q=w600",
+      "tags": [
+        "photography","art"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  }
+}
