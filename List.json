@@ -17,6 +17,10 @@
     "art": {
       "name": "ART",
       "description": "Digital Art Projects"
+    },
+    "memes": {
+      "name": "MEMES",
+      "description": "Digital Memes Projects"
     }
   },
   "timestamp": "2022-03-12T00:00:00+00:00",
@@ -63,12 +67,12 @@
       "name": "THE ART MEMES",
       "logoURI": "https://openseauserdata.com/files/aa632893f9fd59cc179cad7e688bae53.jpg",
       "tags": [
-        "photography","art"
+        "memes","art"
       ]
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 1
   }
