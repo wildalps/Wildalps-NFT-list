@@ -109,10 +109,19 @@
       "tags": [
         "art"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7a49073905c68153449472e054041638d0FF547",
+      "name": "Alnwick Chapters",
+      "logoURI": "https://ipfs.io/ipfs/QmNwfPEc8TBeKdLBzEmHVD6oPRLGtdBNnsxbTsQVSxA6hb/nft.png",
+      "tags": [
+        "art"
+      ]
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 1
   }
