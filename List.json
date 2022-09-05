@@ -21,6 +21,10 @@
     "memes": {
       "name": "MEMES",
       "description": "Digital Memes Projects"
+    },
+    "pfp": {
+      "name": "PFP",
+      "description": "Digital PFP Projects"
     }
   },
   "timestamp": "2022-03-12T00:00:00+00:00",
@@ -69,10 +73,19 @@
       "tags": [
         "memes","art"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25692da406889bF4dB93f921063D9bC952bD01d0",
+      "name": "We Are Itsuki",
+      "logoURI": "https://openseauserdata.com/files/e18b048748f65de0d946374f0ebd8c9d.jpg",
+      "tags": [
+        "memes","art"
+      ]
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 1
   }
