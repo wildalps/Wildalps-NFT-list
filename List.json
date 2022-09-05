@@ -80,12 +80,12 @@
       "name": "We Are Itsuki",
       "logoURI": "https://openseauserdata.com/files/e18b048748f65de0d946374f0ebd8c9d.jpg",
       "tags": [
-        "memes","art"
+        "pfp"
       ]
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 1
   }
