@@ -100,10 +100,19 @@
       "tags": [
         "art"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa151B506CDb764f1eE58EDf4aCba959eC783fF65",
+      "name": "Futuristic Nostalgia by Tivuel",
+      "logoURI": "https://openseauserdata.com/files/2818fe398fd72ed716d26dacc82c96a7.png",
+      "tags": [
+        "art"
+      ]
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 1
   }
