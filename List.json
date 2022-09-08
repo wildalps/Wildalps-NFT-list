@@ -118,10 +118,19 @@
       "tags": [
         "art"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E6ed8aD45Eb16285870965f890402a8FFD871a8",
+      "name": "FloLady Ochie",
+      "logoURI": "https://openseauserdata.com/files/0979063b4cf2c8fdff46a13a911fd33f.jpg",
+      "tags": [
+        "art"
+      ]
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 1
   }
