@@ -114,7 +114,7 @@
       "chainId": 1,
       "address": "0xe7a49073905c68153449472e054041638d0FF547",
       "name": "Alnwick Chapters",
-      "logoURI": "https://ipfs.io/ipfs/QmNwfPEc8TBeKdLBzEmHVD6oPRLGtdBNnsxbTsQVSxA6hb/nft.png",
+      "logoURI": "https://f8n-production.imgix.net/collections/ed9yskwqj-scigirl.jpg?q=45&w=160&h=160&fit=crop&dpr=2",
       "tags": [
         "art"
       ]
@@ -130,7 +130,7 @@
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 1
   }
