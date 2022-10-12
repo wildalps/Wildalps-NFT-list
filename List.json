@@ -2,8 +2,8 @@
   "name": "Wildalps & Community",
   "logoURI": "https://lh3.googleusercontent.com/OvU49NtWWEHZz1JFzteKLiQjhU3UBg4tftUlNrE3JYVURlqrqa5hdErP8ISW5AfayOkX7ar_5BCjmLF_zgglXsnD-cjk1RH8XAU8=s168",
   "baseURL": "https://www.flowcode.com/page/wildalps",
-  "collectionURL": "https://opensea.io/collection/freedom-web3",
-  "itemURL": "https://opensea.io/collection/freedom-web3/{chainID}/{collectionId}/{tokenId}",
+  "collectionURL": "https://neonrain.io/wildalps",
+  "itemURL": "https://neonrain.io/wildalps/{chainID}/{collectionId}/{tokenId}",
   "keywords": [
     "audited",
     "verified",
@@ -130,7 +130,7 @@
     }
   ],
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 0,
     "patch": 1
   }
