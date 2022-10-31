@@ -42,7 +42,7 @@
       "chainId": 1,
       "address": "0xc7d6aA700aFef85477FC49a40874E420cad84f48",
       "name": "Wildalps",
-      "logoURI": "https://lh3.googleusercontent.com/uw2DwC0jDMalqNrVt-Hukfse51C7VoO4L5SQNOhqcssBlyxvfNze3yjMSkrlpu19Gbq1_1kgO7_U2XJvUGkQNK_8iEpAULYy7stL8Q=w600",
+      "logoURI": "https://ipfs.neonrain.io/ipfs/QmTr76wkwS62iVnXNxA45Trs7UyrvvLbH8ewMfYSJEBjTA",
       "tags": [
         "photography","art"
       ]
@@ -130,7 +130,7 @@
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 1
   }
